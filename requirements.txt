@@ -1,0 +1,9 @@
+# requirements.txt
+
+openai
+langchain
+faiss-cpu
+pandas
+streamlit
+python-dotenv
+langchain-community
